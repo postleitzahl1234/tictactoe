@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.pytest_cache/
+
+# created at runtime
+game_results.txt
+mega_game_results.txt
+scores.txt
+daily_scores.json
+
+# local sound files (see music/README.md)
+music/*.mp3
+music/*.wav
+music/*.ogg
